@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="Cache" version="25">
+  <Document name="$remover.ZPM">
+    <Module>
+      <Name>$remover</Name>
+      <Version>2.0.0</Version>
+      <Description>change methods from the codebase</Description>
+      <Packaging>module</Packaging>
+      <SourcesRoot>.</SourcesRoot>
+      <Resource Name="SMR.PKG"/>
+    </Module>
+  </Document>
+</Export>
